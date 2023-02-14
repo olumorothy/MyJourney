@@ -54,6 +54,7 @@ li {
   display: grid;
   align-items: center;
 }
+
 .btn {
   padding: 0.6rem 1.5rem;
   background: var(--gradientColor);
